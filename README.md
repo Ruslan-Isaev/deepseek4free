@@ -23,15 +23,8 @@ A Python package for interacting with the DeepSeek AI chat API. This package pro
 
 ## 📦 Installation
 
-1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/deepseek4free.git
-cd deepseek4free
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+pip install git+https://github.com/Ruslan-Isaev/deepseek4free.git
 ```
 
 ## 🔑 Authentication
